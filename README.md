@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👨‍💻 Lucas Batista
 
-<!--
-**lucasbatistagomeswkr-ctrl/lucasbatistagomeswkr-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dev em desenvolvimento**
 
-Here are some ideas to get you started:
+Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente estou fazendo faculdade, no curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP). Sou apaixonado por técnologia e venho estudando por fora sempre pra obter mais conhecimento para desenvolver habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+    <a href=>
+        <img 
+            alt="youtube subscribers" 
+            title="Telefone de contato" 
+            src= https://custom-icon-badges.demolab.com/badge/-1197024--9795-orange?style=for-the-badge&logo=phone&logoColor=white
+        />
+    </a>
+    <a href=>
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src= https://custom-icon-badges.demolab.com/badge/-lucasbatistagomeswkr@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white
+        />
+    </a> 
+    <a href="https://github.com/lucasbatistagomeswkr-ctrl?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/lucasbatistagomeswkr-ctrl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/lucasbatistagomeswkr-ctrl?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/lucasbatistagomeswkr-ctrl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+
+### ☕ **Linguagens e Tecnologias**
+
+<img
+    align="left"
+    alt="Python"
+    title="python"
+    width="60px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="java"
+    width="60px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
+/>
+
+<br/>
+<br/>
