@@ -2,7 +2,7 @@
 
 **Dev em desenvolvimento**
 
-Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente estou fazendo faculdade, no curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP). Sou apaixonado por técnologia e venho estudando por fora sempre pra obter mais conhecimento para desenvolver habilidades
+Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente estou fazendo faculdade, no curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP). Sou apaixonado por técnologia e venho estudando por fora sempre pra obter mais conhecimento para desenvolver habilidades. Meu sonho é por meuo da minha profissao realizar meu sonho de viajar e morar na china 🇨🇳
 
 
 <p align="left">
