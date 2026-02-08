@@ -6,17 +6,17 @@ Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente esto
 
 
 <p align="left">
-    <a href=>
+    <a href= "http://www.linkedin.com/in/lucas-batista-gomes-573061351">
         <img 
-            alt="youtube subscribers" 
-            title="Telefone de contato" 
-            src= https://custom-icon-badges.demolab.com/badge/-1197024--9795-orange?style=for-the-badge&logo=phone&logoColor=white
+            alt="Linkedin" 
+            title="Linkedin" 
+            src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href=>
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            alt="E-mail" 
+            title="E-mail" 
             src= https://custom-icon-badges.demolab.com/badge/-lucasbatistagomeswkr@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white
         />
     </a> 
@@ -36,6 +36,7 @@ Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente esto
     </a>
 </p>
 
+
 ---
 
 
@@ -45,7 +46,7 @@ Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente esto
     align="left"
     alt="Python"
     title="python"
-    width="60px"
+    width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -54,10 +55,11 @@ Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente esto
     align="left"
     alt="Java"
     title="java"
-    width="60px"
+    width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
 />
 
 <br/>
 <br/>
+
