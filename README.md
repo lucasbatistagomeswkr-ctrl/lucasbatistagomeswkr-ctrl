@@ -2,8 +2,11 @@
 
 **Dev em desenvolvimento**
 
-Me chamo Lucas Batista Gomes, tenho 18 anos e sou de São Paulo. Atualmente estou fazendo faculdade, no curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP). Sou apaixonado por técnologia e venho estudando por fora sempre pra obter mais conhecimento para desenvolver habilidades. Meu sonho é por meio da minha profissao realizar meu sonho de viajar e morar na China 🇨🇳
+👋 Olá, eu sou o Lucas Batista Gomes!
 
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e entusiasta de tecnologia. Atualmente, dedico meu tempo a aprofundar meus conhecimentos técnicos através de estudos autodidatas, focando em construir soluções eficientes e inovadoras.
+
+🎯 Objetivo: Desenvolver habilidades sólidas em software que me permitam atuar globalmente. Tenho o grande sonho de levar minha carreira para a China 🇨🇳, unindo minha paixão pela tecnologia com a experiência de viver em um dos maiores polos de inovação do mundo.
 
 <p align="left">
     <a href= "http://www.linkedin.com/in/lucas-batista-gomes-573061351">
